@@ -1,10 +1,5 @@
-body {
-    font-family: "";
-    font-style: normal;
-}
-
-.class2 {
-    background-color: yellow;
+*{
+    font-family: 'Open Sans', sans-serif;
 }
 
 .login {
@@ -12,18 +7,10 @@ body {
     background-size: cover;
     width: 400;
     height: 350px;
-    margin-left: 150px;
+    margin-left: 40px;
     margin-top: 120px;
 }
 
-.navbar-brand small {
-    display: block;
-    font-size: 18px;
-}
-
-.bgdark {
-    background-color: #000000;
-}
 
 
 /* CSS for signup */
@@ -55,3 +42,4 @@ h1 {
     margin-top: 80px;
     margin-left: 0px;
 }
+
