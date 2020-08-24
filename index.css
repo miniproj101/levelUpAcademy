@@ -1,10 +1,57 @@
-
-
-.class2{
-    background-color:yellow;
+body {
+    font-family: "";
+    font-style: normal;
 }
 
-.img{
+.class2 {
+    background-color: yellow;
+}
+
+.login {
     background: url("assets/login.png");
     background-size: cover;
+    width: 400;
+    height: 350px;
+    margin-left: 150px;
+    margin-top: 120px;
+}
+
+.navbar-brand small {
+    display: block;
+    font-size: 18px;
+}
+
+.bgdark {
+    background-color: #000000;
+}
+
+
+/* CSS for signup */
+
+h1 {
+    color: whitesmoke;
+    text-shadow: 2px 2px 4px #000000;
+    text-align: center;
+}
+
+.main-form {
+    width: 410px;
+    margin: auto;
+}
+
+.book {
+    margin-top: 10px;
+}
+
+.form-rounded {
+    border-radius: 2rem;
+}
+
+.form-rounded1 {
+    border-radius: 1rem;
+}
+
+.level {
+    margin-top: 80px;
+    margin-left: 0px;
 }
