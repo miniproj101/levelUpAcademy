@@ -1,3 +1,11 @@
+nav {
+    font-family: "AGRANDIR";
+}
+
+body {
+    font-family: system-ui, system-ui, sans-serif;
+}
+
 .styling {
     position: relative;
     display: block;
