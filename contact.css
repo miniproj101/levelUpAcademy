@@ -1,0 +1,21 @@
+.styling{
+    margin-top: 15px;
+    width: 350px;
+    background-color:grey;
+    box-sizing: border-box;
+    border-radius: 12px;
+    box-shadow: 0 2px 5px dark grey;
+    padding: 10px;
+    opacity: 0.5;
+    color: blue;
+
+}
+
+.footer{
+    background-color:orange;
+    margin-top: 65px;
+}
+
+.green{
+ background-color: green;
+}
