@@ -1,21 +1,28 @@
-.styling{
-    margin-top: 15px;
-    width: 350px;
-    background-color:grey;
-    box-sizing: border-box;
-    border-radius: 12px;
-    box-shadow: 0 2px 5px dark grey;
-    padding: 10px;
-    opacity: 0.5;
-    color: blue;
-
+.styling {
+    position: relative;
+    display: block;
+    min-width: 100%;
+    background-color: rgb(238, 238, 238);
+    padding: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: rgb(136, 54, 54);
 }
 
-.footer{
-    background-color:orange;
-    margin-top: 65px;
+.footer {
+    background-color: rgb(250, 162, 0);
+    /* margin-top: 65px; */
 }
 
-.green{
- background-color: green;
+.footer-dark {
+    background-color: rgb(207, 90, 47);
+}
+
+.green {
+    background-color: green;
+}
+
+.contact {
+    width: 300px;
+    height: 460px;
 }
