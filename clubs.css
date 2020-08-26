@@ -1,6 +1,9 @@
+nav {
+    font-family: "AGRANDIR";
+}
+
 body {
     font-family: system-ui, system-ui, sans-serif;
-    font-size: 81.25%;
 }
 
 .display {
