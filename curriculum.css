@@ -1,37 +1,40 @@
-    body {
-        font-family: system-ui, system-ui, sans-serif;
-        font-size: 81.25%;
-    }
-    
-    .display {
-        font-size: 49px;
-        line-height: 55px;
-    }
-    
-    .learn {
-        width: 500px;
-        height: 500px;
-    }
-    
-    .color {
-        position: relative;
-        display: block;
-        min-width: 100%;
-        background-color: rgb(238, 238, 238);
-        padding: 30px;
-        font-size: 20px;
-        border-radius: 10px;
-        color: rgb(136, 54, 54);
-    }
-    
-    .sizing {
-        font-size: 18px;
-    }
-    
-    .explore {
-        background-color: red;
-    }
-    
-    .start {
-        background-color: blue;
-    }
+nav {
+    font-family: "AGRANDIR";
+}
+
+body {
+    font-family: system-ui, system-ui, sans-serif;
+}
+
+.display {
+    font-size: 49px;
+    line-height: 55px;
+}
+
+.learn {
+    width: 500px;
+    height: 500px;
+}
+
+.color {
+    position: relative;
+    display: block;
+    min-width: 100%;
+    background-color: rgb(238, 238, 238);
+    padding: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    color: rgb(136, 54, 54);
+}
+
+.sizing {
+    font-size: 18px;
+}
+
+.explore {
+    background-color: red;
+}
+
+.start {
+    background-color: blue;
+}
