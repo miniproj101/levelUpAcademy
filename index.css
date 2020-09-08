@@ -36,7 +36,8 @@
 /* faq */
 
 .position {
-    padding-top: 100px;
+    padding-top: 190px;
+    padding-bottom: 110px;
 }
 
 
@@ -88,8 +89,8 @@
 /* freetrial */
 
 .login {
-    width: 400;
-    height: 350px;
+    width: 450;
+    height: 450px;
     margin-left: 30px;
     margin-top: 120px;
 }
@@ -154,5 +155,5 @@
 
 .contact {
     width: 300px;
-    height: 460px;
+    height: 400px;
 }
